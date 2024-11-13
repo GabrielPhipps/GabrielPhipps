@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning the basics of coding.
+I'm working on school assignments.
+I have no idea what I'm doing most of the time.
